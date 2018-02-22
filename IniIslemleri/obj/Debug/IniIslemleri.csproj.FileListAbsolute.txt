@@ -1,0 +1,9 @@
+c:\users\osman\documents\visual studio 2015\Projects\IniIslemleri\IniIslemleri\bin\Debug\IniIslemleri.exe.config
+c:\users\osman\documents\visual studio 2015\Projects\IniIslemleri\IniIslemleri\bin\Debug\IniIslemleri.exe
+c:\users\osman\documents\visual studio 2015\Projects\IniIslemleri\IniIslemleri\bin\Debug\IniIslemleri.pdb
+c:\users\osman\documents\visual studio 2015\Projects\IniIslemleri\IniIslemleri\obj\Debug\IniIslemleri.csprojResolveAssemblyReference.cache
+c:\users\osman\documents\visual studio 2015\Projects\IniIslemleri\IniIslemleri\obj\Debug\IniIslemleri.Form1.resources
+c:\users\osman\documents\visual studio 2015\Projects\IniIslemleri\IniIslemleri\obj\Debug\IniIslemleri.Properties.Resources.resources
+c:\users\osman\documents\visual studio 2015\Projects\IniIslemleri\IniIslemleri\obj\Debug\IniIslemleri.csproj.GenerateResource.Cache
+c:\users\osman\documents\visual studio 2015\Projects\IniIslemleri\IniIslemleri\obj\Debug\IniIslemleri.exe
+c:\users\osman\documents\visual studio 2015\Projects\IniIslemleri\IniIslemleri\obj\Debug\IniIslemleri.pdb
